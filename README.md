@@ -1,4 +1,14 @@
-## Welcome to my sanctuary.
+<h2 align="left">Welcome to my sanctuary.</h2>
+
+###
+
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<p align="left">Self-taught Hikikomori Coding Hero.</p>
+
+###
 
 <!--
 **HikiCrash/HikiCrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
