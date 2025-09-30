@@ -6,7 +6,7 @@
 
 ###
 
-***<p align="center">self-taught Hikikomori Coding Hero.</p>***
+***<p align="center">Self-taught Hikikomori Coding Hero.</p>***
 
 ###
 
