@@ -2,11 +2,18 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/user-attachments/assets/fee97e0e-c6de-4816-9bfd-cb9bc566eeee"  />
+<img align="left" height="250" src="https://github.com/user-attachments/assets/fee97e0e-c6de-4816-9bfd-cb9bc566eeee"  />
 
 ###
 
 ***<p align="center">self-taught Hikikomori Coding Hero.</p>***
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HikiCrash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HikiCrash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
