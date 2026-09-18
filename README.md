@@ -6,7 +6,7 @@
   <tr>
     <td width="35%" valign="top">
 
-  <img height="300" src="https://github.com/user-attachments/assets/fee97e0e-c6de-4816-9bfd-cb9bc566eeee" />
+  <img height="250" src="https://github.com/user-attachments/assets/fee97e0e-c6de-4816-9bfd-cb9bc566eeee" />
 
   ###
 
