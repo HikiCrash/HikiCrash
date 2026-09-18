@@ -2,18 +2,35 @@
 
 ###
 
-<img align="left" height="500" src="https://github.com/user-attachments/assets/fee97e0e-c6de-4816-9bfd-cb9bc566eeee"  />
+<table>
+  <tr>
+    <td width="35%" valign="top">
+
+  <img height="400" src="https://github.com/user-attachments/assets/fee97e0e-c6de-4816-9bfd-cb9bc566eeee" />
+
+  ###
+
+  <p align="center">
+    <i>Self-taught Hikikomori Coding Hero.</i>
+  </p>
+
+</td>
+
+<td width="65%" valign="top">
+
+  ###
+
+  <div align="center">
+    <img src="https://status-eta-mocha.vercel.app/api?username=HikiCrash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph" />
+    <img src="https://status-eta-mocha.vercel.app/api/top-langs?username=HikiCrash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph" />
+  </div>
+  
+</td>
+
+  </tr>
+</table>
 
 ###
-
-***<p align="center">Self-taught Hikikomori Coding Hero.</p>***
-
-###
-
-<div align="center">
-  <img src="https://status-eta-mocha.vercel.app/api?username=HikiCrash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://status-eta-mocha.vercel.app/api/top-langs?username=HikiCrash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
